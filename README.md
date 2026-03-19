@@ -1,10 +1,8 @@
 # Hi, I'm Yi 👋
 
-I'm a computational social scientist using machine learning and data analysis to study urban inequality. Currently an MS student in [Computational Social Science](https://macss.uchicago.edu/) at the University of Chicago (May 2027), with a background in Sociology and Computer Science.
+I'm a computational social scientist using machine learning and data science to study urban inequality. Currently an MA student in [Computational Social Science](https://macss.uchicago.edu/) at the University of Chicago (May 2027), with a background in Sociology and Computer Science.
 
-I'm interested in how computational methods can surface patterns in social systems — particularly around urban services, crime, and economic mobility.
-
-📬 Open to **Summer 2026 data science & research analyst internships**  
+📬 Open to **Summer 2026 Machine Learning & Data science & research analyst internships**  
 📍 Based in Chicago, IL
 
 ---
