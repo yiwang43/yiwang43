@@ -23,11 +23,11 @@ I'm a computational social scientist using machine learning and data science to 
 **Languages:** Python · SQL · R  
 **ML / Data:** scikit-learn · pandas · NumPy · GeoPandas · Matplotlib · Seaborn  
 **Methods:** Supervised & unsupervised learning · Spatial analysis · EDA · Feature engineering · Cross-validation  
-**Other:** Git · Jupyter · Census/Socrata APIs · Mandarin (bilingual)
+**Other:** Git · Jupyter · APIs · Mandarin (bilingual)
 
 ---
 
 ## Education
 
-🎓 **MS Computational Social Science** — University of Chicago *(exp. May 2027)*  
+🎓 **MA Computational Social Science** — University of Chicago *(exp. May 2027)*  
 🎓 **BA Sociology & CS minor** — Occidental College *(Cum Laude)*
