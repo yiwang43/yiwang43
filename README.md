@@ -2,7 +2,7 @@
 
 I'm a computational social scientist using machine learning and data science to study urban inequality. Currently an MA student in [Computational Social Science](https://macss.uchicago.edu/) at the University of Chicago (May 2027), with a background in Sociology and Computer Science.
 
-📬 Open to **Summer 2026 Machine Learning & Data science & research analyst internships**  
+📬 Open to **Summer 2026 Machine Learning & Data science & Research Analyst internships**  
 📍 Based in Chicago, IL
 
 ---
