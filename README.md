@@ -1,6 +1,6 @@
 # Hi, I'm Yi 👋
 
-I'm an aspiring computational social scientist using machine learning and data science to study sociology. Currently an MA student in [Computational Social Science](https://macss.uchicago.edu/) at the University of Chicago (May 2027), with a background in Sociology and Computer Science.
+I'm an aspiring computational social scientist using machine learning and data science to study sociology. Currently an MA student in [Computational Social Science](https://macss.uchicago.edu/) at the University of Chicago (May 2027), with a background in Sociology and Computer Science. Currently, I am working as an Operation & People Analytics Intern at Nerdio. 
 
 📍 Based in Chicago, IL
 
